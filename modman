@@ -1,0 +1,3 @@
+src/app/code/core/Mage/Adminhtml/               app/code/core/Mage/Adminhtml/
+src/app/etc/modules/Mage_Adminhtml.xml          app/etc/modules/Mage_Adminhtml.xml
+src/app/locale/en_US/Mage_Adminhtml.csv         app/locale/en_US/Mage_Adminhtml.csv
