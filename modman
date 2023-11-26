@@ -23,7 +23,7 @@ src/app/design/adminhtml/default/openmage/layout/local.xml                      
 src/app/design/adminhtml/default/openmage/template/forgotpassword.phtml         app/design/adminhtml/default/openmage/template/forgotpassword.phtml
 src/app/design/adminhtml/default/openmage/template/login.phtml                  app/design/adminhtml/default/openmage/template/login.phtml
 src/app/design/adminhtml/default/openmage/template/resetforgottenpassword.phtml app/design/adminhtml/default/openmage/template/resetforgottenpassword.phtml
-src/app/design/adminhtml/default/default/template/page/                         app/design/adminhtml/default/default/template/page/
+src/app/design/adminhtml/default/openmage/template/page/                        app/design/adminhtml/default/openmage/template/page/
 src/app/etc/modules/Mage_Adminhtml.xml                                          app/etc/modules/Mage_Adminhtml.xml
 src/app/locale/en_US/Mage_Adminhtml.csv                                         app/locale/en_US/Mage_Adminhtml.csv
 src/app/locale/en_US/template/email/admin_new_user_notification.html            app/locale/en_US/template/email/admin_new_user_notification.html
