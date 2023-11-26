@@ -1,5 +1,5 @@
 src/app/code/core/Mage/Adminhtml/                               app/code/core/Mage/Adminhtml/
-src/app/code/core/Mage/Adminhtml/layout/etc/theme.xml           app/code/core/Mage/Adminhtml/layout/etc/theme.xml
+src/app/design/adminhtml/default/default/etc/theme.xml          app/design/adminhtml/default/default/etc/theme.xml
 src/app/design/adminhtml/default/default/layout/main.xml        app/design/adminhtml/default/default/layout/main.xml
 src/app/design/adminhtml/default/default/layout/promo.xml       app/design/adminhtml/default/default/layout/promo.xml
 src/app/design/adminhtml/default/default/layout/search.xml      app/design/adminhtml/default/default/layout/search.xml
