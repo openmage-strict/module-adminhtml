@@ -1,3 +1,7 @@
-src/app/code/core/Mage/Adminhtml/               app/code/core/Mage/Adminhtml/
-src/app/etc/modules/Mage_Adminhtml.xml          app/etc/modules/Mage_Adminhtml.xml
-src/app/locale/en_US/Mage_Adminhtml.csv         app/locale/en_US/Mage_Adminhtml.csv
+src/app/code/core/Mage/Adminhtml/                               app/code/core/Mage/Adminhtml/
+src/app/code/core/Mage/Adminhtml/etc/theme.xml                  app/code/core/Mage/Adminhtml/etc/theme.xml
+src/app/design/adminhtml/default/default/layout/main.xml        app/design/adminhtml/default/default/layout/main.xml
+src/app/design/adminhtml/default/default/layout/promo.xml       app/design/adminhtml/default/default/layout/promo.xml
+src/app/design/adminhtml/default/default/layout/search.xml      app/design/adminhtml/default/default/layout/search.xml
+src/app/etc/modules/Mage_Adminhtml.xml                          app/etc/modules/Mage_Adminhtml.xml
+src/app/locale/en_US/Mage_Adminhtml.csv                         app/locale/en_US/Mage_Adminhtml.csv
