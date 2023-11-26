@@ -19,6 +19,11 @@ src/app/design/adminhtml/default/default/template/promo/                        
 src/app/design/adminhtml/default/default/template/store/                        app/design/adminhtml/default/default/template/store/
 src/app/design/adminhtml/default/default/template/system/                       app/design/adminhtml/default/default/template/system/
 src/app/design/adminhtml/default/default/template/urlrewrite/                   app/design/adminhtml/default/default/template/urlrewrite/
+src/app/design/adminhtml/default/openmage/layout/local.xml                      app/design/adminhtml/default/openmage/layout/local.xml
+src/app/design/adminhtml/default/openmage/template/forgotpassword.phtml         app/design/adminhtml/default/openmage/template/forgotpassword.phtml
+src/app/design/adminhtml/default/openmage/template/login.phtml                  app/design/adminhtml/default/openmage/template/login.phtml
+src/app/design/adminhtml/default/openmage/template/resetforgottenpassword.phtml app/design/adminhtml/default/openmage/template/resetforgottenpassword.phtml
+src/app/design/adminhtml/default/default/template/page/                         app/design/adminhtml/default/default/template/page/
 src/app/etc/modules/Mage_Adminhtml.xml                                          app/etc/modules/Mage_Adminhtml.xml
 src/app/locale/en_US/Mage_Adminhtml.csv                                         app/locale/en_US/Mage_Adminhtml.csv
 src/app/locale/en_US/template/email/admin_new_user_notification.html            app/locale/en_US/template/email/admin_new_user_notification.html
