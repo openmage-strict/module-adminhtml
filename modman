@@ -3,6 +3,7 @@ src/app/design/adminhtml/default/default/layout/main.xml                        
 src/app/design/adminhtml/default/default/layout/promo.xml                       app/design/adminhtml/default/default/layout/promo.xml
 src/app/design/adminhtml/default/default/layout/search.xml                      app/design/adminhtml/default/default/layout/search.xml
 src/app/design/adminhtml/default/default/template/access_denied.phtml           app/design/adminhtml/default/default/template/access_denied.phtml
+src/app/design/adminhtml/default/default/template/coming.phtml                  app/design/adminhtml/default/default/template/coming.phtml
 src/app/design/adminhtml/default/default/template/empty.phtml                   app/design/adminhtml/default/default/template/empty.phtml
 src/app/design/adminhtml/default/default/template/forgotpassword.phtml          app/design/adminhtml/default/default/template/forgotpassword.phtml
 src/app/design/adminhtml/default/default/template/formkey.phtml                 app/design/adminhtml/default/default/template/formkey.phtml
