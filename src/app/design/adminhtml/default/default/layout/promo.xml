@@ -48,7 +48,7 @@
     <!-- Shopping Cart Price Rule -->
     <adminhtml_promo_quote_index>
         <reference name="content">
-            <block type="adminhtml/promo_quote" name="promo_quote"></block>
+            <block type="adminhtml/promo_quote" name="promo_quote"/>
         </reference>
     </adminhtml_promo_quote_index>
     <adminhtml_promo_quote_edit>
@@ -75,7 +75,7 @@
             <block type="adminhtml/template" template="promo/salesrulejs.phtml" name="promo_quote_edit_jsinit"/>
         </reference>
         <reference name="content">
-            <block type="adminhtml/promo_quote_edit" name="promo_quote_edit"></block>
+            <block type="adminhtml/promo_quote_edit" name="promo_quote_edit"/>
         </reference>
     </adminhtml_promo_quote_edit>
     <adminhtml_promo_quote_grid>

@@ -92,15 +92,18 @@ Default layout, loads most of the pages
             </block>
 
             <block type="adminhtml/page_notices" name="global_notices" as="global_notices" template="page/notices.phtml" />
-            <block type="adminhtml/page_header" name="header" as="header"></block>
-            <block type="adminhtml/page_menu" name="menu" as="menu"></block>
+            <block type="adminhtml/page_header" name="header" as="header"/>
+            <block type="adminhtml/page_menu" name="menu" as="menu"/>
             <block type="core/text_list" name="notifications" as="notifications">
-                <block type="adminhtml/notification_baseurl" name="notification_baseurl" as="notification_baseurl" template="notification/baseurl.phtml"></block>
-                <block type="adminhtml/cache_notifications" name="cache_notifications" template="system/cache/notifications.phtml"></block>
-                <block type="adminhtml/notification_security" name="notification_security" as="notification_security" template="notification/security.phtml"></block>
+                <block type="adminhtml/notification_baseurl" name="notification_baseurl" as="notification_baseurl"
+                       template="notification/baseurl.phtml"/>
+                <block type="adminhtml/cache_notifications" name="cache_notifications"
+                       template="system/cache/notifications.phtml"/>
+                <block type="adminhtml/notification_security" name="notification_security" as="notification_security"
+                       template="notification/security.phtml"/>
                 <block type="adminhtml/checkout_formkey" name="checkout_formkey" as="checkout_formkey" template="notification/formkey.phtml"/>
             </block>
-            <block type="adminhtml/widget_breadcrumbs" name="breadcrumbs" as="breadcrumbs"></block>
+            <block type="adminhtml/widget_breadcrumbs" name="breadcrumbs" as="breadcrumbs"/>
 
             <!--<update handle="formkey"/> this won't work, see the try/catch and a jammed exception in Mage_Core_Model_Layout::createBlock() -->
             <block type="core/template" name="formkey" as="formkey" template="formkey.phtml"/>
@@ -188,13 +191,13 @@ Base preview layout (?)
 
     <preview>
         <block type="core/template" name="root" output="toHtml" template="newsletter/template/preview.phtml">
-            <block type="adminhtml/newsletter_template_preview" name="content" as="content"></block>
+            <block type="adminhtml/newsletter_template_preview" name="content" as="content"/>
         </block>
     </preview>
 
     <newsletter_template_preview>
         <block type="core/template" name="root" output="toHtml" template="newsletter/template/preview.phtml">
-            <block type="adminhtml/newsletter_template_preview" name="content" as="content"></block>
+            <block type="adminhtml/newsletter_template_preview" name="content" as="content"/>
         </block>
     </newsletter_template_preview>
 
@@ -207,7 +210,7 @@ Base preview layout (?)
 
     <newsletter_queue_preview>
         <block type="core/template" name="root" output="toHtml" template="newsletter/queue/preview.phtml">
-            <block type="adminhtml/newsletter_queue_preview" name="content" as="content"></block>
+            <block type="adminhtml/newsletter_queue_preview" name="content" as="content"/>
         </block>
     </newsletter_queue_preview>
 
@@ -217,7 +220,7 @@ Base customer alerts preview layout (?)
 
     <alert_preview>
         <block type="core/template" name="root" output="toHtml" template="alert/template/preview.phtml">
-            <block type="adminhtml/alert_template_preview" name="content" as="content"></block>
+            <block type="adminhtml/alert_template_preview" name="content" as="content"/>
         </block>
     </alert_preview>
 <!--
@@ -226,7 +229,7 @@ Base preview layout
 
     <systemPreview>
         <block type="core/template" name="root" output="toHtml" template="system/email/template/preview.phtml">
-            <block type="adminhtml/system_email_template_preview" name="content" as="content"></block>
+            <block type="adminhtml/system_email_template_preview" name="content" as="content"/>
         </block>
     </systemPreview>
 
