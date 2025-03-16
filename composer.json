@@ -1,0 +1,10 @@
+{
+    "name": "openmage-strict/module-adminhtml",
+    "description": "Mage_Adminhtml",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "openmage-strict/module-admin": "^120.2"
+    }
+}
